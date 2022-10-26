@@ -3,5 +3,5 @@ This repository, generates photorealistic face synthetic data, as well as the th
 Below you can find the relavant notebooks:
 | Description      | Link |
 | ----------- | ----------- |
-| Generate EG3D face data (image, depthmap and 3D .obj)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//sergeyprokudin/smplpix/blob/main/colab_notebooks/eg3d.ipynb)|
-| Visualize synthetic face mesh | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sergeyprokudin/smplpix/blob/main/colab_notebooks/visualize_mesh.ipynb)|
+| Generate EG3D face data (image, depthmap and 3D .obj)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cantonioupao/generate-synthetic-face-data/blob/main/colab_notebooks/eg3d.ipynb)|
+| Visualize synthetic face mesh | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cantonioupao/generate-synthetic-face-data/blob/main/colab_notebooks/visualize_mesh.ipynb)|
